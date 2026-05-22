@@ -21,3 +21,5 @@ To ensure institutional viability and total legal compliance, EcoPredict operate
 ### AI Methodology & Feature Engineering
 The conceptual architecture treats demand forecasting as a supervised time-series regression problem. The core model relies on ensemble tree-based algorithms, specifically **XGBoost (Extreme Gradient Boosting)** or **Random Forest Regressors**, which excel at capturing non-linear relationships between independent features (like weather variations) and the target variable (sales volume).
 
+![3d](/3d.png)
+
