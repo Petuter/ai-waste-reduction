@@ -1,9 +1,6 @@
-# ai-waste-reduction
-AI-Driven Demand Forecasting for Retail Waste Reduction
-
 # EcoPredict: AI-Driven Demand Forecasting for Retail Waste Reduction
 
-## Your idea in a nutshell
+## Summary
 EcoPredict is an advanced, conceptual machine learning framework designed to mitigate the severe issue of food waste within the commercial retail sector. By ingesting multi-source open data—specifically regional consumption patterns, high-resolution meteorological forecasts, and calendar anomalies—the system generates highly accurate, daily demand predictions for highly perishable, weather-dependent consumer goods. The ultimate goal is to bridge the gap between supply chain logistics and environmental sustainability, ensuring that grocery stores stock exactly what their local community needs, precisely when they need it.
 
 ## Background
